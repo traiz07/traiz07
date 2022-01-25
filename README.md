@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @traiz07
 - 👀 I’m interested in ... Web and App Development
-- 🌱 I’m currently learning ... PDO and the application of PHP cURL
-- 💞️ I’m looking to collaborate on ... UX Development
+- 🌱 I’m currently learning ... Laravel and React JS
+- 💞️ I’m looking to collaborate on ... Fullstack web and app development
 - 📫 How to reach me ... Email: austinameh007@gmail.com, WhatsApp: 08157372794, Instagram and Twitter @ traiz07
 
 <!---
